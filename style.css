@@ -1,0 +1,12 @@
+h1{
+    color:blueviolet;
+}
+
+body{
+    background-color: #a2d39c;
+    color: #440e62;
+}
+td{border: 5px black;}
+table, th, td {
+    border:1px solid black;
+  }
